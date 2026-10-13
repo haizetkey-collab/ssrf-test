@@ -1,0 +1,7 @@
+{
+  "name": "ssrf-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "@vercel/firewall": "1.2.5"
+  }
+}
